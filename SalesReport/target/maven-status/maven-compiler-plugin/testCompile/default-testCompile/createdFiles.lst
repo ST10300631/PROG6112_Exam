@@ -1,4 +1,5 @@
 com\mycompany\salesreport\IProductTest.class
+ProductAppTest.class
 com\mycompany\salesreport\SalesReportTest.class
 com\mycompany\salesreport\IProductTest$IProductImpl.class
 com\mycompany\salesreport\PrintProductTest.class
